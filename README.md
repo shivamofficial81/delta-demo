@@ -1,2 +1,2 @@
 # delta-demo
-Demo for git &amp; github
+Demo for git &amp; github.
